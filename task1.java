@@ -1,7 +1,4 @@
 public class task1 {
-    public task1() {
-    }
-
     public static void main(String[] args) {
         int[] nums = new int[]{13, 5, 4, 22, 8, 74};
         System.out.print("Odd numbers:");
